@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+.pytest_cache
+.git
+.vscode
+data/*.csv
+*.log
+README.md
+ab_test_plan.md
+tests/
+models/train_model.py
+.env
+.gitignore
